@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  LaunchpadManager
+
+  Created by 陈飞 on 2025/3/10.
+  
+*/
+
+"show_in_finder" = "打开目录";
+"export_layout" = "导出布局";
+"import_layout" = "恢复布局";
+"result" = "结果";
+"success" = "成功";
+"failure" = "失败";
+"close" = "关闭";
