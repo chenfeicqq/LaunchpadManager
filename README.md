@@ -1,4 +1,6 @@
-# LaunchpadManager/启动台管理器
+# LaunchpadManager
+
+MacOS 启动台管理器，备份及恢复启动台的布局
 
 功能
 + 打开 db 目录
